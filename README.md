@@ -12,7 +12,7 @@
 ```Shell
 $ python3 setup.py install
 ```
-> 详细安装方式请看 "./SmartReview_setup/SmartReview使用说明书.pdf"
+> 详细安装方式请看 "[./SmartReview_setup/SmartReview使用说明书.pdf](https://github.com/EchoShoot/SmartReview/blob/master/SmartReview使用说明书.pdf)"
 
 
 ## 使用方法
