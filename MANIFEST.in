@@ -1,0 +1,2 @@
+recursive-include src/SmartReview/source *
+recursive-include src/SmartReview/save *
