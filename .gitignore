@@ -108,3 +108,4 @@ venv.bak/
 ._*
 .Spotlight-V100
 .Trashes
+src/.DS_Store
