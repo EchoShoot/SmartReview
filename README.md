@@ -8,11 +8,11 @@
 
 
 ## 安装方式
-将该项目下载到本地以后, cd 切换至 "SmartReview_setup" 文件夹中, 输入以下命令:
+将该项目下载到本地以后, cd 切换至 "SmartReview" 文件夹中, 输入以下命令:
 ```Shell
 $ python3 setup.py install
 ```
-> 详细安装方式请看 "[./SmartReview_setup/SmartReview使用说明书.pdf](https://github.com/EchoShoot/SmartReview/blob/master/SmartReview使用说明书.pdf)"
+> 详细安装方式请看 "[./SmartReview/SmartReview使用说明书.pdf](https://github.com/EchoShoot/SmartReview/blob/master/SmartReview使用说明书.pdf)"
 
 
 ## 使用方法
@@ -23,7 +23,7 @@ $ smartreview
 ```
 
 ## 关于词库
-在路径 "./SmartReview_setup/src/SmartReview/source" 中有我在扇贝爬下来的词库:
+在路径 "[./SmartReview/src/SmartReview/source](https://github.com/EchoShoot/SmartReview/tree/master/src/SmartReview/source)" 中有我在扇贝爬下来的词库:
 * 考研单词.json
 * 六级单词.json
 
