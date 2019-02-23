@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/1/16 上午02:27
-# @Author  : ZhangYaoWu
-# @Email   : 852822425@qq.com
+# @Author  : BiarFordlander
+# @Email   : BiarFordlander@gmail.com
 # @File    : Tactics.py
 # @Software: PyCharm
 import logging

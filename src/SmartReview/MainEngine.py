@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/1/17 下午10:27
-# @Author  : ZhangYaoWu
-# @Email   : 852822425@qq.com
+# @Author  : BiarFordlander
+# @Email   : BiarFordlander@gmail.com
 # @File    : MainEngine.py
 # @Software: PyCharm
 from SmartReview.UI import UIBase, UIConfig, UISearch
