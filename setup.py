@@ -19,8 +19,8 @@ setup(
 	version='1.0.1',  # 项目版本
 	url='https://github.com/EchoShoot/SmartReview',  # 网址
 	description='A high-level review vocabulary tool!',  # 简要描述
-	author='ZhangYaowu',  # 作者
-	maintainer='EchoShoot',  # 维护人(请各Fork本项目二次开发的朋友, 可在这里填入你的昵称)
+	author='EchoShoot',  # 作者
+	maintainer='BiarFordlander',  # 维护人(请各Fork本项目二次开发的朋友, 可在这里填入你的昵称)
 	maintainer_email='BiarFordlander@gmail.com',  # 维护人的邮箱
 	license='GPL',  # 请遵守GPL协议, 若需商用请找我单独授权!
 	zip_safe=False,  # 有些工具不支持zip压缩，而且压缩后也不方便调试，建议设为 False!
